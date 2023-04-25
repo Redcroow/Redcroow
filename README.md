@@ -6,7 +6,7 @@
 
 ## Me retrouver
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=FFF)](https://www.linkedin.com/in/kilian-mevrel/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=FFF)](https://www.linkedin.com/in/kilian-mevrel/)
 
 ## Languages et outils
 
