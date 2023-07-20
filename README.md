@@ -15,26 +15,26 @@
 ## Languages
   ### Pack Javascript
   [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://typescript.org/)
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://www.typescriptlang.org/)
   [![React](https://img.shields.io/badge/-React-000?&logo=React)](https://react.org/)
-  [![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs)](https://nestjs.org/)
+  [![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs)](https://nestjs.com/)
   [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://www.nextjs.org/)
-  [![Vuejs](https://img.shields.io/badge/-Vuejs-000?&logo=Vue.js)](https://www.nextjs.org/)
-  [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Next.js)](https://www.nextjs.org/)
+  [![Vuejs](https://img.shields.io/badge/-Vuejs-000?&logo=Vue.js)](https://vuejs.org/)
+  [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)](https://angular.io/)
 
   ### Pack Standard
   [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)](https://www.w3.org/html/)
   [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
-  [![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SASS)](https://developer.mozilla.org/fr/docs/Web/CSS)
+  [![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SASS)](https://fontawesome.com/docs/web/use-with/scss)
   
   ### Pack PHP
   [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
-  [![LARAVEL](https://img.shields.io/badge/-LARAVEL-000?&logo=LARAVEL&logoColor=777BB4)](https://www.php.net)
+  [![LARAVEL](https://img.shields.io/badge/-LARAVEL-000?&logo=LARAVEL&logoColor=777BB4)](https://laravel.com/)
 
 ## OS
 
   [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
-  [![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](https://www.linux.org/)
+  [![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](https://www.microsoft.com/fr-fr/windows?r=1)
 
 ## Outils
 
