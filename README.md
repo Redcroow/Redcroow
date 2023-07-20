@@ -63,8 +63,3 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Redcroow&theme=react&background=0d1117&border=666">
   </a>  
 </p>
-<div align="center">
-  <a href="https://github.com/Redcroow">
-    <img src="https://avatars.githubusercontent.com/u/72379963?v=4">
-  </a>
-</div>
