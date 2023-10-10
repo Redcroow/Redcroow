@@ -44,7 +44,10 @@
 
   [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
-[![WSL]]
+
+[![WSL](https://img.shields.io/badge/-WSL-000?&logo=Windows&logoColor=0078D6)](https://docs.microsoft.com/en-us/windows/wsl/)
+
+
 ## En apprentissage / perfectionnement
 
   [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F24E1E)](https://www.docker.org/)
